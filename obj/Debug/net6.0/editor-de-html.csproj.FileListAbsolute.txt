@@ -1,0 +1,15 @@
+C:\Users\artes\editor-de-texto\editor-de-html\bin\Debug\net6.0\editor-de-html.exe
+C:\Users\artes\editor-de-texto\editor-de-html\bin\Debug\net6.0\editor-de-html.deps.json
+C:\Users\artes\editor-de-texto\editor-de-html\bin\Debug\net6.0\editor-de-html.runtimeconfig.json
+C:\Users\artes\editor-de-texto\editor-de-html\bin\Debug\net6.0\editor-de-html.dll
+C:\Users\artes\editor-de-texto\editor-de-html\bin\Debug\net6.0\editor-de-html.pdb
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.csproj.AssemblyReference.cache
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.AssemblyInfoInputs.cache
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.AssemblyInfo.cs
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.csproj.CoreCompileInputs.cache
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.dll
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\refint\editor-de-html.dll
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.pdb
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\editor-de-html.genruntimeconfig.cache
+C:\Users\artes\editor-de-texto\editor-de-html\obj\Debug\net6.0\ref\editor-de-html.dll
